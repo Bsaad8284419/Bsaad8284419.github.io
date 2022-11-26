@@ -1,0 +1,35 @@
+h1{
+    font-family: arial;
+    color: slategray;
+    background-color: #f7eff0;
+    /* border: 10px solid blue; */
+    border-bottom: 3px dotted brown;
+    border-top: 4px dashed orange;
+    border-left: 5px solid violet;
+    border-right: 6px solid violet;
+    text-align: center;
+    text-decoration: solid;
+} 
+div{
+    background-color: aqua;
+}
+p{
+    column-count: 3;
+    column-gap: 60px;
+    column-rule: 10px;
+}
+ul{
+    border: 2px solid gray;
+    background: lightgray;
+}
+li{
+    list-style-type: square;
+    text-shadow: 2px 2px lightslategray ; 
+}
+table{
+    padding: 20px;
+}
+td{
+    padding: 20px;
+    margin: 20px;
+}
